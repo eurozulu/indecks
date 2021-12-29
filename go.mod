@@ -1,4 +1,4 @@
-module indecks
+module github.com/eurozulu/indecks
 
 go 1.17
 
